@@ -17,5 +17,5 @@ Second Opinion Tool: Offers a second opinion by comparing input images with a da
 3. Integration
 API Integration: Allows seamless integration with existing healthcare systems or research platforms via API.
 Web Interface: User-friendly web interface for easy access and interaction.
-4. Doctor Search and Appointment scheduling
+4. Doctor Search and Appointments
 Calling APIs for retriving information of Doctors and their contact details
