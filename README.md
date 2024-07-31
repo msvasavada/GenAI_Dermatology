@@ -2,10 +2,12 @@
 
 Welcome to the Dermatology Generative AI Application README. This document serves as a guide to understand and utilize our AI-powered tool designed for dermatological purposes.
 
-Purpose
+Purpose:
+
 The Dermatology Generative AI App leverages artificial intelligence to assist dermatologists, medical professionals, and researchers in analyzing and generating insights from dermatological images. It utilizes deep learning algorithms trained on a diverse dataset of skin conditions to provide valuable diagnostic support and research capabilities.
 
-Features
+Features:
+
 1. Image Analysis
 Dermatological Condition Detection: Automatically identifies and categorizes skin conditions based on uploaded images.
 Feature Extraction: Extracts features and patterns from dermatological images for detailed analysis.
