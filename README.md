@@ -1,4 +1,5 @@
-Dermatology Generative AI Application README
+**Dermatology Generative AI Application:**
+
 Welcome to the Dermatology Generative AI Application README. This document serves as a guide to understand and utilize our AI-powered tool designed for dermatological purposes.
 
 Purpose
